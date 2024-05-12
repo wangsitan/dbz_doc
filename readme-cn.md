@@ -98,7 +98,7 @@ _龙珠Z-激斗天下一武道会_: **无需条码，全面优化**
 
 # 个人页面
 
-- romhacking.net: https://www.romhacking.net/community/2188
+- RomHacking: https://www.romhacking.net/community/2188
 - YouTube: https://www.youtube.com/@wangsitan7
 - Patreon: https://www.patreon.com/wangsitan
 - Bilibili: https://space.bilibili.com/4609306
@@ -108,7 +108,7 @@ _龙珠Z-激斗天下一武道会_: **无需条码，全面优化**
 
 # 捐助
 
-如果您愿意捐助，可以通过以下方式:
+如果您有意捐助，可以通过以下方式:
 - PayPal: https://paypal.me/wangsitan
 - 支付宝: wangsitan@aliyun.com
 
