@@ -98,9 +98,10 @@ _龙珠Z-激斗天下一武道会_: **无需条码，全面优化**
 
 # 个人页面
 
+- romhacking.net: https://www.romhacking.net/community/2188
 - YouTube: https://www.youtube.com/@wangsitan7
-- Bilibili: https://space.bilibili.com/4609306
 - Patreon: https://www.patreon.com/wangsitan
+- Bilibili: https://space.bilibili.com/4609306
 - 爱发电: https://afdian.net/a/wangsitan
 
 
