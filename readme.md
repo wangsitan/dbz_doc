@@ -10,7 +10,7 @@ _Datach Dragon Ball Z - Gekitou Tenkaichi Budou Kai_: **No Barcode, Variously Op
 
 ## General
 
-- Press buttons to select character. When you need to select character, pressing SELECT will display the character ID. Press the arrow keys to adjust the ID. You can press A to select the character corresponding to the ID, or you can press START to select randomly. When selecting character, the buttons do not distinguish between 1P/2P controllers. The level of the fighter selected by ID is always Lv4. The level of a randomly selected fighter is random, and Lv0 may appear.
+- Press buttons to select character. When you need to select character, pressing SELECT will display the character ID. Press the arrow keys to adjust the ID. You can press A to select the character corresponding to the ID, or you can press B to select randomly. When selecting character, the buttons do not distinguish between 1P/2P controllers. The level of the fighter selected by ID is always Lv4. The level of a randomly selected fighter is random, and Lv0 may appear.
 
 - In battle scenes, character level Lv1-Lv4 will be displayed as number 1-4 under the avatar. Lv0 will not be displayed.
 
@@ -76,7 +76,7 @@ _Datach Dragon Ball Z - Gekitou Tenkaichi Budou Kai_: **No Barcode, Variously Op
 - LEFT:     ID -1
 - RIGHT:    ID +1
 - A:        Confirm
-- START:    Randomly select a character
+- B:        Randomly select a character
 
 
 
